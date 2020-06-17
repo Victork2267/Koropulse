@@ -10,6 +10,6 @@ Team Heartthrobs
 | Names | Linkedln Profiles |
 | :---: | :---: |
 |  Ho Yong Kian | https://www.linkedin.com/in/yong-kian-ho-3407b9191/ |
-|  Chew Ying Xuan | https://www.linkedin.com/in/yong-kian-ho-3407b9191/ |
+|  Chew Ying Xuan | https://www.linkedin.com/in/chewyingxuan/ |
 |  Jovan Tan | https://www.linkedin.com/in/yong-kian-ho-3407b9191/ |
 |  Reo Chan | https://www.linkedin.com/in/yong-kian-ho-3407b9191/ |
