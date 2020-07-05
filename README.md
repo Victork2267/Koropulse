@@ -25,5 +25,5 @@ Team Heartthrobs
 | :---: | :---: |
 |  Ho Yong Kian | https://www.linkedin.com/in/yong-kian-ho-3407b9191/ |
 |  Chew Ying Xuan | https://www.linkedin.com/in/chewyingxuan/ |
-|  Jovan Tan Ye Jie | https://www.linkedin.com/in/yong-kian-ho-3407b9191/ |
-|  Reo Chan | https://www.linkedin.com/in/yong-kian-ho-3407b9191/ |
+|  Jovan Tan Ye Jie |  |
+|  Reo Chan |  |
